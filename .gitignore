@@ -1,0 +1,30 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Testing
+.pytest_cache/
+.coverage
+htmlcov/
+
+# ML training artifacts
+notebooks/bert-amazon-sentiment/
+notebooks/bert-test-run/
+notebooks/data/
+
+# Local model files
+
+# Temporary files
+new.ipynb
+
+# Environment/secrets
+.env
